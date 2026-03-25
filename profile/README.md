@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9538f88e-42b1-488b-b4fe-a0c621ed34c1" alt="Gyanmirai Official Logo White" width="180"/>
+  <img src="../Images/Logo.png" alt="Gyanmirai Official Logo" width="180"/>
 </p>
 
 <h1 align="center">🌟 <strong>GyanMirai Technologies</strong></h1>
